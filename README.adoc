@@ -1,0 +1,7 @@
+= GBIF Dymaxion Maps
+
+The code in this repository can be used to generate a map in https://en.wikipedia.org/wiki/Dymaxion_map[Dymaxion projection], or an icosohedral net for a paper "globe".
+
+image:docs/icosohedra.jpg[width=45%] image:docs/icosohedron_net_bmng.png[width=45%]
+
+See "https://github.com/MattBlissett/gbif-dymaxion/releases[Releases]" for PDFs to print.
