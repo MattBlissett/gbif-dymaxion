@@ -494,7 +494,9 @@
          style="font-size:4.93889px;stroke-width:0.264583"
          x="6.3071642"
          y="265.04364"
-         id="tspan26145">Showing all GBIF occurrences, 13 October 2022</tspan><tspan
+         id="tspan26145">Showing <tspan
+   style="font-style:italic"
+   id="tspan1138">Plantae</tspan> GBIF occurrences, 27 September 2023</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.93889px;stroke-width:0.264583"
          x="6.3071642"
@@ -791,7 +793,7 @@
        width="409.31824"
        height="193.353"
        preserveAspectRatio="none"
-       xlink:href="../dymax_gbif_marble_all.png"
+       xlink:href="../dymax_gbif_dark_t6.png"
        id="image1114"
        x="-415.01013"
        y="-242.24658"
